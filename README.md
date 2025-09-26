@@ -37,7 +37,6 @@
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zAstergun&show_icons=true&include_all_commits=true&count_private=true&line_height=20&bg_color=844968&border_color=D1D1D1&title_color=58F0F7&text_color=D1D1D1&icon_color=58F0F7" />
-    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zAstergun&layout=compact&langs_count=7&line_height=20&bg_color=844968&border_color=D1D1D1&title_color=58F0F7&text_color=D1D1D1" />
   </p>
 
