@@ -14,7 +14,7 @@
 
   <br>
 
-  <img src="https://media.giphy.com/media/26tn33csZGgI3bZX2/giphy.gif" height="50" />
+  <img src="assets/Zhou%20Yushan%20bottom.png" width="250" />
   
   <br><br>
 
