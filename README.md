@@ -8,7 +8,7 @@
   <br><br>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=zAstergun&label=Profile%20Views&color=58F0F7&labelColor=212121&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=zAstergun&label=Profile%20Views&color=58F0F7&labelColor=000000&style=for-the-badge" alt="Profile views" />
     &nbsp;
     <a href="[SEU LINK DO LINKEDIN AQUI]" target="_blank">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
