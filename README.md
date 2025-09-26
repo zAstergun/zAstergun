@@ -1,7 +1,8 @@
 <div align="center">
   <img src="assets/Zhou%20Yushan%20side.png" width="30%" align="right" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=58F0F7&width=520&height=120&lines=Where+logic+meets+intuition...;I'm+Aster;Mobile+and+Reverse+Engineering)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58F0F7&repeat=false&width=200&lines=I'm+Aster)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=58F0F7&width=520&height=120&lines=Where+logic+meets+intuition...;Mobile+and+Reverse+Engineering)](https://git.io/typing-svg)
   
   <br><br>
 
@@ -12,11 +13,11 @@
     🎮&nbsp; Passionate about Games, Manhwas & Game Modding
   </pre>
 
-  <br>
+  <br><br><br>
 
   <img src="assets/Zhou%20Yushan%20bottom.png" width="250" />
   
-  <br><br>
+  <br><br><br>
 
   <h3>Skills</h3>
   <p>
@@ -31,9 +32,13 @@
   <br>
 
   <h3>Stats</h3>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=zAstergun&show_icons=true&theme=nord&include_all_commits=true&count_private=true&line_height=20"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zAstergun&layout=compact&langs_count=7&theme=nord&line_height=20"/>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=zAstergun&theme=gruvbox-duo&background=844968&border=D1D1D1&stroke=D1D1D1&ring=58F0F7&fire=58F0F7&currStreakNum=58F0F7&sideNums=D1D1D1&currStreakLabel=D1D1D1&sideLabels=D1D1D1&dates=D1D1D1&excludeDaysLabel=D1D1D1)](https://git.io/streak-stats)
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=zAstergun&show_icons=true&include_all_commits=true&count_private=true&line_height=20&bg_color=844968&border_color=D1D1D1&title_color=58F0F7&text_color=D1D1D1&icon_color=58F0F7" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zAstergun&layout=compact&langs_count=7&line_height=20&bg_color=844968&border_color=D1D1D1&title_color=58F0F7&text_color=D1D1D1" />
   </p>
 
   <br>
