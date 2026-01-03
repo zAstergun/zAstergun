@@ -86,12 +86,3 @@
     <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/>
   </a>
 </p>
-
-  <h3>Stats</h3>
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=zAstergun&theme=gruvbox-duo&background=844968&border=D1D1D1&stroke=D1D1D1&ring=58F0F7&fire=58F0F7&currStreakNum=58F0F7&sideNums=D1D1D1&currStreakLabel=D1D1D1&sideLabels=D1D1D1&dates=D1D1D1&excludeDaysLabel=D1D1D1)](https://git.io/streak-stats)
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zAstergun&show_icons=true&include_all_commits=true&count_private=true&line_height=20&bg_color=844968&border_color=D1D1D1&title_color=58F0F7&text_color=D1D1D1&icon_color=58F0F7" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zAstergun&layout=compact&langs_count=7&line_height=20&bg_color=844968&border_color=D1D1D1&title_color=58F0F7&text_color=D1D1D1" />
-  </p>
