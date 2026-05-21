@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     &nbsp;
-    <a href="[https://asterdev.me]" target="_blank">
+    <a href="https://asterdev.me" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-58F0F7?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio">
     </a>
   </p>
